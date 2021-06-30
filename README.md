@@ -1,2 +1,0 @@
-# proj
-<titli> такой</titli>
